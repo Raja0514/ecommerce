@@ -1,0 +1,50 @@
+{
+  "categeories": [
+    {
+      "value": 35,
+      "heading": "laptops"
+    },
+    {
+      "value": 75,
+      "heading": "shoes"
+    },
+    {
+      "value": 50,
+      "heading": "cameras"
+    },
+    {
+      "value": 65,
+      "heading": "jeans"
+    }
+  ],
+  "transcation": [
+    {
+      "id": "asdasda1",
+      "amount": 4000,
+      "quantity": 5,
+      "discount":100,
+      "status": "processing"
+    },
+    {
+      "id": "asdasda2",
+      "amount": 4000,
+      "quantity": 5,
+      "discount":200,
+      "status": "processing"
+    },
+    {
+      "id": "asdasda3",
+      "amount": 4000,
+      "quantity": 5,
+      "discount":300,
+      "status": "processing"
+    },
+    {
+      "id": "asdasda4",
+      "amount": 4000,
+      "quantity": 5,
+      "discount":400,
+      "status": "processing"
+    }
+  ]
+}
