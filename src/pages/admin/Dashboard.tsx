@@ -21,7 +21,7 @@ const Dashboard = () => {
         <div className="bar">
           <BsSearch />
           <input type="text" placeholder="Search" />
-          <FaRegBell />
+          <FaRegBell  />
           <img src={user} alt="userlogo" />
         </div>
 

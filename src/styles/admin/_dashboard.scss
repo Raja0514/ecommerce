@@ -2,11 +2,13 @@
   overflow-y: auto;
 
   .bar {
-    height: 4rem;
+   
+    width: 92%;
+    height: 3rem;
     @include flex(row, unset);
     padding: 0 1rem;
     position: relative;
-    left: 3rem;
+    left: 0rem;
     right: 3rem;
     border-bottom: 1px solid rgba(0, 0, 0, 0.37);
     > input {
