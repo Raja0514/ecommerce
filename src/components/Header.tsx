@@ -10,7 +10,7 @@ import { useState } from "react";
 
 const user = {
   _id: "sdsdf",
-  role: "",
+  role: "admin",
 };
 const Header = () => {
 
